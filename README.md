@@ -6,7 +6,7 @@ This project represents the beauty of winter with **falling snow animation** and
 🌨️ Built as part of the **DEV Frontend Challenge – December Edition**.
 
 ## 🌐 Live Demo
-🔗 https://your-username.github.io/WinterWithHappySnow/
+🔗 [https://your-username.github.io/WinterWithHappySnow/](https://tharushi1019.github.io/winter-solstice/)
 
 ---
 
