@@ -69,7 +69,7 @@ The goal is to create a peaceful, festive, and cheerful visual using frontend ba
 
 ## 📸 Preview
 
-*(Add a screenshot or GIF here if you want later)*
+![Winter with Happy Snow Preview](preview/preview.png)
 
 ---
 
